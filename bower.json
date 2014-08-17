@@ -1,0 +1,30 @@
+{
+  "name": "jquery-json-rpc2",
+  "version": "0.1.0",
+  "homepage": "https://github.com/FREEZX/jquery-json-rpc2",
+  "authors": [
+    "Kristijan Trajkovski <kiko_trajkovski@hotmail.com>"
+  ],
+  "description": "jQuery JSON RPC 2 Plugin with authentication support",
+  "main": "jsonrpc2.jquery.js",
+  "dependencies": {
+    "jquery": ">=1.6"
+  },
+  "keywords": [
+    "jquery",
+    "json",
+    "rpc",
+    "remote",
+    "procedure",
+    "call",
+    "authentication"
+  ],
+  "license": "GPL 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
